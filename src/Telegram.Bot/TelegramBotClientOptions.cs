@@ -10,7 +10,7 @@ namespace Telegram.Bot;
 [PublicAPI]
 public class TelegramBotClientOptions
 {
-    const string BaseTelegramUrl = "https://api.telegram.org";
+    const string BaseTelegramUrl = "https://tapi.bale.ai";
 
     /// <summary>
     /// API token
